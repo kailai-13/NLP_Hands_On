@@ -1,6 +1,4 @@
-# Install required libraries
-# pip install SpeechRecognition pyttsx3
-# pip install pyaudio
+
 
 import speech_recognition as sr
 import pyttsx3
