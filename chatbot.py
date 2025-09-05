@@ -1,5 +1,5 @@
 import nltk
-import random
+import random 
 import string
 
 from nltk.chat.util import Chat, reflections
